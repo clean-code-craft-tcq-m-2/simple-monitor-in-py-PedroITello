@@ -30,4 +30,4 @@ CURRENT_LANGUAGE = "EN"  # Can be changed between EN/DE
 """
 Temperature unit setting
 """
-TEMPERATURE_UNIT = "F"  # Can be changed between C/F
+TEMPERATURE_UNIT = "C"  # Can be changed between C/F
